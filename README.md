@@ -4,6 +4,13 @@ This repository is a hands-on, self-guided learning module designed to build a r
 
 This module is structured as a series of "Katas" (exercises). You will fix broken code by editing files and running `cargo check`. This interactive process helps solidify the concepts by letting you experience the compiler's errors firsthand and then fix them.
 
+## 📚 Documentation
+
+A comprehensive documentation bundle, including a learning roadmap and architectural overview, is available on Google Drive.
+
+- **[Drive Folder: Rust Borrow Checker Kata — R&D Lab](https://drive.google.com/drive/folders/1C7HDbrckJMjhEBEtFd53Cb5ci1lyPWgU)**
+- **[Documentation Bundle](https://docs.google.com/document/d/1KmpPwSUM_QCl1jy747yw6nRjmBEAtWxQxtZLhEfJ7KA/edit?usp=drivesdk)**
+
 ## Learning Philosophy
 
 The pedagogical approach is designed to address common pitfalls for Rust newcomers:
